@@ -1,0 +1,31 @@
+======================================================
+Task 2: 
+======================================================
+File Indexed Successfully...
+------------------------------------------------------
+STOP Analyzer:      [Field: <TEXT>]
+------------------------------------------------------
+Number of Tokens for this Field: 26216475
+Number of Terms in the Dictionary: 169948
+
+File Indexed Successfully...
+------------------------------------------------------
+KEYWORD Analyzer:      [Field: <TEXT>]
+------------------------------------------------------
+Number of Tokens for this Field: 84474
+Number of Terms in the Dictionary: 84061
+
+File Indexed Successfully...
+------------------------------------------------------
+SIMPLE Analyzer:      [Field: <TEXT>]
+------------------------------------------------------
+Number of Tokens for this Field: 37330144
+Number of Terms in the Dictionary: 169981
+
+File Indexed Successfully...
+------------------------------------------------------
+STANDARD Analyzer:      [Field: <TEXT>]
+------------------------------------------------------
+Number of Tokens for this Field: 26649680
+Number of Terms in the Dictionary: 233384
+
